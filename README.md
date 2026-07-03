@@ -36,7 +36,7 @@ physically cross the membrane**, using the classic Kyte-Doolittle hydrophobicity
  **Results**
 
 | Protein | True TM domains | Predicted | Overlap |
-|---|---|---|
+|---|---|---|---|
 | GRIN1 (NMDA) | 3 | 4 | 93.9% |
 | GABRA1 (GABA-A) | 4 | 3 | 63.5% |
 | SCN1A (Na⁺ channel) | 24 | 16 | 65.4% |
