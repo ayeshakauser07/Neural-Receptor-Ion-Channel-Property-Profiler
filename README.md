@@ -12,6 +12,7 @@ physically cross the membrane**, using the classic Kyte-Doolittle hydrophobicity
 
 **Proteins studied:**
 | Protein | Gene | Role |
+|---|---|---|
 | NMDA receptor subunit | GRIN1 | Excitatory neurotransmitter receptor |
 | GABA-A receptor subunit | GABRA1 | Inhibitory neurotransmitter receptor |
 | Voltage-gated sodium channel | SCN1A | Generates the action potential |
@@ -35,6 +36,7 @@ physically cross the membrane**, using the classic Kyte-Doolittle hydrophobicity
  **Results**
 
 | Protein | True TM domains | Predicted | Overlap |
+|---|---|---|
 | GRIN1 (NMDA) | 3 | 4 | 93.9% |
 | GABRA1 (GABA-A) | 4 | 3 | 63.5% |
 | SCN1A (Na⁺ channel) | 24 | 16 | 65.4% |
