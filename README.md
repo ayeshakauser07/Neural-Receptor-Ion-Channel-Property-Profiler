@@ -1,7 +1,7 @@
 Neural Receptor & Ion Channel Property Profiler
 A computational tool that predicts transmembrane (membrane-spanning) regions in neural
 receptor and ion channel proteins using hydrophobicity and charge analysis, validated
-against UniProt's curated ground-truth annotations.
+against UniProt's ground-truth annotations.
 
 **What this does**
 
